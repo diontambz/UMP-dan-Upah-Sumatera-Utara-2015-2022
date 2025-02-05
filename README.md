@@ -47,6 +47,6 @@ Data yang digunakan dalam analisis ini berasal dari dua tabel utama:
 []
 
 
-## REFERENSI
+## Dataset
 - [[Sumber data](https://www.kaggle.com/datasets/rezkyyayang/pekerja-sejahtera)]
 
